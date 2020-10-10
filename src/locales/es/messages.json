@@ -1,0 +1,5 @@
+{
+  "example1": "Este es el primer ejemplo.",
+  "example2": "Este es el segundo ejemplo.{0}",
+  "{0, plural, one {one} other {more}}": "{0, plural, one {uno} other {más}}"
+}
